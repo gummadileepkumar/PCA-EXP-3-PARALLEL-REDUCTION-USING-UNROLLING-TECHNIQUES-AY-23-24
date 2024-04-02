@@ -1,7 +1,6 @@
 # PCA-EXP-3-PARALLEL-REDUCTION-USING-UNROLLING-TECHNIQUES AY 23-24
-<h3>AIM:</h3>
-<h3>ENTER YOUR NAME</h3>
-<h3>ENTER YOUR REGISTER NO</h3>
+<h3>NAME : Gumma Dileep Kumar</h3>
+<h3>REGISTER NO : 212222240032</h3>
 <h3>EX. NO</h3>
 <h3>DATE</h3>
 <h1> <align=center> PARALLEL REDUCTION USING UNROLLING TECHNIQUES </h3>
@@ -49,8 +48,6 @@ Memory Deallocation
 27.	Exit
 28.	Return from the main function.
 
-### DEVELOPED BY : Gumma Dileep Kuamr
-### REGISTER NO : 212222240032
 ## PROGRAM:
 ```python
 !pip install git+https://github.com/andreinechaev/nvcc4jupyter.git
